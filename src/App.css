@@ -1,0 +1,11 @@
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background: linear-gradient(100deg, #0d0f0e, #0e1a34, #0a2a39, #2e4058, #27243f, #40384d, #326244, #409040);
+  }
+  
+  canvas {
+    display: block;
+  }
+  

@@ -2,7 +2,7 @@
 
 This project contains an animated donut example created with React, Vite, and Three.js library.
 
-[![React Donut Animation](Donut.mov)]
+![React Donut Animation](./Donut.png)]
 
 ## Getting Started
 
